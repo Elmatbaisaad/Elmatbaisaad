@@ -72,6 +72,6 @@
 <br>
 
 
+![](https://github.com/elmatbaisaad/github-stats/blob/master/generated/overview.svg)
 
- ![Snake animation](https://github.com/elmatbaisaad/github-contribution-grid-snake.svg)
  </div>
