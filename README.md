@@ -35,7 +35,7 @@
 
 <br>
 
-## ## <img src="https://github.com/elmatbaisaad/elmatbaisaad/blob/main/Developer.gif" width="45px"> Tech Stack
+## <img src="https://github.com/elmatbaisaad/elmatbaisaad/blob/main/Developer.gif" width="45px"> Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -72,6 +72,6 @@
 <br>
 
 
-![](https://github.com/elmatbaisaad/github-stats/blob/master/generated/overview.svg)
+
 
  </div>
