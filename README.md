@@ -61,7 +61,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elmatbaisaad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmatbaisaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="elmatbaisaad" /></p> username=elmatbaisaad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elmatbaisaad&layout=compact&langs_count=8&theme=algolia"/>
   
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmatbaisaad&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="elmatbaisaad" /> -->
