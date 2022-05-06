@@ -78,5 +78,5 @@
 
 
 
- ![Snake animation](https://github.com/elmatbaisaad/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/elmatbaisaad/github-contribution-grid-snake.svg)
  </div>
