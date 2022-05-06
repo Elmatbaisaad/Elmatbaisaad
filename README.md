@@ -12,7 +12,7 @@
 
 
 
-<p><img align="right" src="animation_500_kxa883sd.gif" alt="alimakouar" /></p>
+<p><img align="right" src="animation_500_kxa883sd.gif" alt="elmatbaisaad" /></p>
 
 
 - 🌱 I’m currently in my 3th year at Orleans University
@@ -30,7 +30,7 @@
 
  <a href="mailto:elmatbaisaad@gmail.com" target="_blank"><img align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="alimakouar" /></a>
+      alt="elmatbaisaad" /></a>
 </p>
 
 <br>
@@ -61,7 +61,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimakouar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elmatbaisaad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elmatbaisaad&layout=compact&langs_count=8&theme=algolia"/>
   
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmatbaisaad&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="elmatbaisaad" /> -->
