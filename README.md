@@ -60,15 +60,10 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmatbaisaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="elmatbaisaad" /></p> username=elmatbaisaad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elmatbaisaad&layout=compact&langs_count=8&theme=algolia"/>
-  
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmatbaisaad&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="elmatbaisaad" /> -->
- 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=elmatbaisaad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  -->
-</div>
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimshim&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashimshim" /></p>   
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimshim&show_icons=true&locale=en&theme=radical" alt="hashimshim" /></p>
 
 ## 🏆 &nbsp;Git profile Trophies
 
