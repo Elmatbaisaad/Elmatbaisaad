@@ -76,22 +76,6 @@
  </p>
 <br>
 
-## 📌 &nbsp;My Favorite Repositories
-
- <div align="center">
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmatbaisaad&repo=OrientationFiliere&theme=algolia)](https://github.com/alimakouar/OrientationFiliere)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmatbaisaad&repo=Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning&theme=algolia)](https://github.com/alimakouar/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmatbaisaad&repo=Plateforme-212&theme=algolia)](https://github.com/alimakouar/Plateforme-212)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmatbaisaad&repo=Ensamacademy&theme=algolia)](https://github.com/alimakouar/Ensamacademy)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmatbaisaad&repo=web-scraping-bourse-maroc&theme=algolia)](https://github.com/alimakouar/web-scraping-bourse-maroc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmatbaisaad&repo=EnsamGestion&theme=algolia)](https://github.com/alimakouar/EnsamGestion)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmatbaisaad&repo=map-android-app&theme=algolia)](https://github.com/alimakouar/map-android-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmatbaisaad&repo=quiz-with-scores&theme=algolia)](https://github.com/alimakouar/quiz-with-scores)
-
 
 
  ![Snake animation](https://github.com/elmatbaisaad/elmatbaisaad/blob/output/github-contribution-grid-snake.svg)
