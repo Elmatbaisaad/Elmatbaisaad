@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://linkedin.com/in/elmatbai-saad/">EL MATBAI Saad</a> </h1>
 
-<h3 align="center">Computer science student at Orleans University.</h3>
+<h3 align="center">Computer science student at Haute Alsace University.</h3>
 
 <br>
 
@@ -15,7 +15,7 @@
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="elmatbaisaad" /></p>
 
 
-- 🌱 I’m currently in my 3th year at Orleans University
+- 🌱 I’m currently in my 4th year at Haute Alsace University
 
 - 📫 How to reach me ==>  **elmatbaisaad@gmail.com**
 
