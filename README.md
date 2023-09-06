@@ -15,7 +15,7 @@
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="elmatbaisaad" /></p>
 
 
-- 🌱 I’m currently in my 4th year at Haute Alsace University
+- 🌱 I’m currently in my 4th year at ESTIAM LYON
 
 - 📫 How to reach me ==>  **elmatbaisaad@gmail.com**
 
