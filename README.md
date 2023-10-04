@@ -1,4 +1,4 @@
-<center><h1> EL MATBAI Saad</h1></center>
+<h1 align="center"> EL MATBAI Saad</h1>
 
 <h3 align="center">Computer science student at ESTIAM LYON.</h3>
 
