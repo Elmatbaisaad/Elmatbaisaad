@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://linkedin.com/in/elmatbai-saad/">EL MATBAI Saad</a> </h1>
+ <a href="https://linkedin.com/in/elmatbai-saad/">EL MATBAI Saad</a> </h1>
 
 <h3 align="center">Computer science student at ESTIAM LYON.</h3>
 
