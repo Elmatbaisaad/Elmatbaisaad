@@ -15,7 +15,7 @@
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="elmatbaisaad" /></p>
 
 
-- 🌱 I’m currently in my 4th year at ESTIAM LYON
+- 🌱 I’m currently in my 5th year at ESTIAM LYON
 
 - 📫 How to reach me ==>  **elmatbaisaad@gmail.com**
 
@@ -53,7 +53,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![JUPYTER](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
